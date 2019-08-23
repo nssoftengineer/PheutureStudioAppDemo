@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PheutureStudioAppDemo</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="tab_2">Tab 2</string>
+    <string name="tab_3">Tab 3</string>
+    <string name="tab_4">Tab 4</string>
+    <string name="welcome_message">Good Afternoon Rajnish.</string>
+    <string name="welcome_message_2">Start your day with</string>
+    <string name="know_more"><u>Know More</u></string>
+</resources>
